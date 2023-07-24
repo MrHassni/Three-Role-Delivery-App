@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "373276664395",
+    "project_id": "foody-office-f9f6c",
+    "storage_bucket": "foody-office-f9f6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373276664395:android:2972f15094a9a677d523ce",
+        "android_client_info": {
+          "package_name": "com.example.delivery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373276664395-jkptmo3ofpm45br0lneia88hrnbv7n7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlOPdcFMKVnq5cfwZbVRL65vHqStX2HSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373276664395-jkptmo3ofpm45br0lneia88hrnbv7n7k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "373276664395-nvld69kua0c99ne848keqlkleqtqu303.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.deliveryApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
